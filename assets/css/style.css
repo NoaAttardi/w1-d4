@@ -1,3 +1,178 @@
-head { background-image: url(./sfondo.png
-    );}
+body {margin: 20px;}
+body {
+   background-image: url(./img/sfondo.png);
+   ;
+}
+.primaparte {
+   width: 350px;
+    height: 330px;
+    background-color: rgb(34, 116, 149);
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+}
+
+div img { 
+   padding-top: 20px;
+   padding-left: 20px;
+   padding-right: 20px;
+   width: 300px;
+   padding-bottom: 30px
+}
+header article {
+   text-align: center;
+   color: white;
+   font-family: bold;
+   padding-bottom: 30px;
+}
+.secondo1 {
+   padding-bottom: 10px; 
+}
+.terzo {
+   padding-bottom: 10px;
+   text-align: center;
+}
+main {
+   width: auto;
+   height: auto;
+   background-color: white;
+   border: solid 1px #9e9e9e;
+
+   
+   margin-right: auto;
+  
+   padding-left: 10px;
+
+   padding-right: 10px;
+
+
+}
+main h1 { font-family: auto;
+   font-size: 2em;
+   padding-left: 10px;
+}
+#stile {
+   padding-bottom: 15px;
+    color: #aba3a3;
+}
+.testo span {
+   color: rgb(144, 6, 166)
+; font-style: Bold;
+}
+.importanza {
+   margin-left: auto;
+   padding-top: 15px;
+}
+.rossotesto span {
+   color: rgb(144, 6, 166)
+; font-style: Bold;
+}
+h3 {
+   text-align: center;
+   margin-bottom: 8px;
+}
+th {
+   
+   padding-top: 20px;
+ padding-left: 20px;
+ background-color: rgba(41, 41, 219, 0.81);
+ color: white;
+}
+td {
+   padding-left: 20px;
+}
+.prima {
+   background-color: #b7b4b4aa;
+}
+.seconda {
+   background-color: #b7b4b4aa;
+}
+.terza {
+   padding-left: 50px;
+}
+.quarta {
+   padding-left: 43px;
+}
+section a {
+   color: rgb(0, 125, 221) ;
+}
+.video  {
+   padding-top: 25px;
+   border-radius: 30px;
+}
+.quadro {
+    height: 200px;
+    background-color: #d9d3d3;
+    padding-top: 0px;
+   
+   
     
+}
+h2 {padding-top: 10px;
+   text-align: center;
+   font-size: 1.5em;
+   
+
+}
+.quadro span {
+
+}
+.quadro div {
+   padding-left: 150px
+   ;
+   padding-top: 80px;
+}
+.quadro button {
+   background-color: ;
+}
+.bottone1 {
+   border-bottom: dashed;
+   
+}
+.iscriviti {
+   background-color: blue;
+   color: white;
+}
+h4 {
+   text-align: center;
+   font-size: 1.5em;
+}
+.contenitore {
+   width: 330px;
+   height: 150px;
+   background-color: #d9d3d3 ;
+   padding-bottom: 20px;
+}
+.contenitore a {
+
+font-size: 1.2em;
+   color: rgb(53, 114, 158);
+  
+}
+.fa-calendar-alt{
+   padding-top: 110px;
+   padding-left: 200px;
+   
+}
+.contenmax {
+   width: 350px;
+   height: 150px;
+   background-color: #27586a ;
+   padding-bottom: 20px;
+ 
+
+}
+h5 {
+   text-align: center;
+   color: white;
+   padding-top: 20px;
+    font-size: 1em;
+
+}
+.contenmax p {
+   margin: 0px;
+    padding: 12px;
+    padding-top: 8px;
+    color: white;
+    
+}
